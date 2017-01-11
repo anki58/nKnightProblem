@@ -1,0 +1,11 @@
+NOTE:
+The Source.cpp contains main class.
+The MyKnight.h contains MyKnight Class which gives all possible solutions for 2n Knights for n*n Board.
+
+
+/*
+Name:Ankita Sawant 
+CS 570B 
+CWID:10412051
+
+*/
